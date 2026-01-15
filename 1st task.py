@@ -1,2 +1,2 @@
-username = input("enter your name")
-print("welcome to class + username")
+user = input("enter your name")
+print("Hello," + user +"!")
