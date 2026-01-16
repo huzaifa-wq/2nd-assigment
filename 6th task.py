@@ -1,5 +1,6 @@
 import random as rnd
 
+
 three_digit_code = ""
 for _ in range(3):
     three_digit_code += str(rnd.randint(0,9))
